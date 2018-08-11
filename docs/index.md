@@ -19,4 +19,4 @@ Docker'a Giriş
 
 Referanslar
 ===========
-1.<a href="https://opensource.com/resources/what-docker" target="_blank">https://opensource.com/resources/what-docker</a>
+1. <a href="https://opensource.com/resources/what-docker" target="_blank">https://opensource.com/resources/what-docker</a>
