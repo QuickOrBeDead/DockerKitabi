@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Docker Kitabı
 description: Docker hakkında bilgiler içerir
+google_analytics: UA-124229229-1
 
 # Build settings
 markdown: kramdown
