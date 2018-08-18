@@ -12,7 +12,7 @@ sağlayan bir araçtır. Konteynerlar geliştirmecilerin uygulamalarını ve uyg
 çalıştırmalarını, dağıtmalarını ve konuşlandırmalarını (deployment) kolaylaştıran açık kaynak kodlu bir işletim sistemi seviyesinde 
 sanallaştırma yazılımıdır.
 
-Docker öncelikle Linux için geliştirilmiştir. Linux çekirdeğinin (Linux kernel) cgroups, namespaces ve OverlayFS dosya sistemi gibi kaynak yalıtım
+Docker öncelikle Linux için geliştirilmiştir. Linux çekirdeğinin (Linux kernel) **cgroups**, **namespaces** ve **OverlayFS** dosya sistemi gibi kaynak yalıtım
 özelliklerini kullanır. Bu özellikler sayesinde Docker konteynerların aynı Linux işletim sistemi üzerinde izole bir şekilde çalıştırılmasını
 sağlanır. Linux çekirdeği namespace'leri proses ağaçları, network, dosya sistemi ve user IDs gibi işletim sistemi ortamlarının izolasyonu için
 kullanılır, cgroups ise memory ve cpu gibi kaynakların yönetimi için kullanılır.
