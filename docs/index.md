@@ -2,11 +2,9 @@
 title: Docker Kitabı
 ---
 
-Docker Kitabı
-=============
+# Docker Kitabı
 
-Docker Nedir?
-=============
+# Docker Nedir?
 
 Docker açık kaynak kodlu bir **işletim sistemi seviyesinde sanallaştırma** yazılımıdır. Docker, uygulamaların yaratılması, konuşlandırılması (deployment) ve çalıştırılmasını, konteynerleri kullanarak kolaylaştırılmasını sağlayan bir araçtır. Konteynerler geliştirmecilerin uygulamalarını ve uygulamaların ihtiyaç duyduğu parçalarını paketleyerek çalıştırmalarını, dağıtmalarını ve konuşlandırmalarını (deployment) kolaylaştırır.
 
@@ -14,17 +12,13 @@ Docker öncelikle Linux için geliştirilmiştir. Linux çekirdeğinin (Linux ke
 
 Docker sanal bir makineden farklı olarak, bütün bir sanal işletim sistemi oluşturmak yerine uygulamaların aynı Linux çekirdeğini kullanmasına izin verir. Bu şekilde önemli bir performans artışı sağlanır ve uygulamaların boyutu azalmış olur. Kurmak, yönetmek, yürütmek sanal makinelere göre daha hızlı ve basittir.
 
-Konteyner Nedir?
-================
+# Konteyner Nedir?
 
-Docker'a Giriş
-==============
+# Docker'a Giriş
 
-Tarihçe
-=======
+## Tarihçe
 
-Kaynaklar
-===========
+# Kaynaklar
 
 1. <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank">https://en.wikipedia.org/wiki/Docker_(software)</a>
 2. <a href="https://opensource.com/resources/what-docker" target="_blank">https://opensource.com/resources/what-docker</a>
